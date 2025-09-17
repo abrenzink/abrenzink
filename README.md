@@ -17,7 +17,7 @@ I'm Andrea Brenzik, a backend developer in my final year at Brigham Young Univer
 
 ## Let's Connect!
 
-- Here is my [LinkedIn]([https://www.linkedin.com/in/andrea-brenzink/) profile
+- Here is my [LinkedIn](https://www.linkedin.com/in/andrea-brenzink/) profile
 - Here is my [YouTube Channel](https://www.youtube.com/@andreaferreiradev) profile
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
