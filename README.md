@@ -30,6 +30,6 @@ I love mentoring, explaining complex concepts clearly, and continuously learning
 
 ## Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/andrea-brenzink)  
-- [YouTube Channel](https://www.youtube.com/@seu_canal)  
+- [YouTube Channel](https://www.youtube.com/@andreaferreiradev)  
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
